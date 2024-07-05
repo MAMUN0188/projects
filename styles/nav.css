@@ -1,0 +1,19 @@
+nav ul{
+    display: flex;
+    /* display: inline; */
+    list-style: none;
+    width: 20%;
+    margin-left: auto;
+}
+nav li{
+   text-align: end;
+}
+nav a{
+    padding: 7px 16px;
+    margin: 3px;
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    background-color: gray;
+}
